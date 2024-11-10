@@ -4,4 +4,4 @@ description: This is just a sample page
 
 # Sample Page
 
-Lets  see how this change  affects.
+Confirming if the github sync can be detected by Zapier.&#x20;
