@@ -1,7 +1,3 @@
----
-description: This is just a sample page
----
+# another new page
 
-# Sample Page
-
-Test.
+this is another sample page&#x20;
