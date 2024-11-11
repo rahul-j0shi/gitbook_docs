@@ -1,3 +1,3 @@
-# another new page
+# new page
 
-this is another sample page&#x20;
+this is a sample page&#x20;

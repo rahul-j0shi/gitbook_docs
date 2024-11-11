@@ -1,3 +1,4 @@
 # Table of contents
 
-* [another new page](README.md)
+* [new page](README.md)
+* [another new page](another-new-page.md)
