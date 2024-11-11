@@ -1,7 +1,3 @@
----
-description: This is just a sample page
----
+# only a test page
 
-# Sample Page
-
-Test to check the output from webhook.
+test content of test page to just confirm the sync between gitbook and github.
