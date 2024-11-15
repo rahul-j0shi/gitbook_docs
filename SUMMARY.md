@@ -1,4 +1,3 @@
 # Table of contents
 
-* [new page](README.md)
-* [another new page](another-new-page.md)
+* [github <> s3 sync test](README.md)
