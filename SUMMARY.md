@@ -1,3 +1,4 @@
 # Table of contents
 
-* [testtestestse](README.md)
+* [Offers](README.md)
+* [Subscription Offers: Introduction](subscription-offers-introduction.md)
