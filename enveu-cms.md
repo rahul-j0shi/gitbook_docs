@@ -1,6 +1,6 @@
 # Enveu CMS
 
-Our CMS has four main components:
+Enveu CMS has four main components:
 
 1. Project Overview
 2. Content Manager
